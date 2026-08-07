@@ -28,12 +28,23 @@ A simple clean and minimal calculator built with HTML, CSS, and JavaScript.
 
 ```bash
 git clone https://github.com/theomkarupadhyay-7/calculator.git
+```
+2.  Open the project folder.
+3.  Open index.html in your browser.
 
-Open the project folder.
-Open index.html in your browser.
+---
+## 📁 Project Structure
+
+```text
+calculator/
+├── index.html
+├── script.js
+├── style.css
+└── README.md
+```
+---
 
 ## 👨‍💻 Author
 
 Omkar Upadhyay
-
 Built as a beginner web development project.
