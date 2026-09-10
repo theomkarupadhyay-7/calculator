@@ -47,4 +47,4 @@ calculator/
 ## 👨‍💻 Author
 
 Omkar Upadhyay
-Built as a beginner web development project.
+- Built as a beginner web development project.
